@@ -19,8 +19,8 @@ Run the app locally or deploy to a server. Access endpoints like `/linear`, `/kn
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/deyb12-data-mining.git
-   cd deyb12-data-mining
+   git clone https://github.com/yourusername/deyb12-Job-Salary-Prediction-ML-Models.git
+   cd deyb12-Job-Salary-Prediction-ML-Models
    ```
 
 2. **Create a Virtual Environment** (recommended):
